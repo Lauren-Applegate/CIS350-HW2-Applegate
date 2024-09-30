@@ -6,4 +6,4 @@
 ## Technical Background
 * I started coding in Java in high school and did well on my AP test and recieved college credit. Since GV starts in python I decided to retake 162 to learn that language and set me up better for 163. I am now currently a sophmore learning how to use linux and git.
 
-[college meme](https://www.google.com/url?sa=i&url=https%3A%2F%2Fza.pinterest.com%2Flunekrugerlk%2Ftt-ideas%2F&psig=AOvVaw0tFnFBnUAU4cXExSAlbQTi&ust=1727744715388000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjh9-O86YgDFQAAAAAdAAAAABAJ)
+[college meme](https://img.ifunny.co/images/fe2bcdc24d12fe764fcc8a0afa6d0cbdb2ced601d01cfe94f9e0d2e7d0b40105_1.jpg)
